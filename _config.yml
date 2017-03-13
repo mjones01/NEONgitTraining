@@ -3,8 +3,8 @@ description: 	A test development site that will host education materials that su
 #Comment out url when working locally to resolve base urls correctly ok
 #use this when pushing to git for live version
 
-url:           http://neoninc.github.io/NEONgitTraining
-baseurl:       http://neoninc.github.io/NEONgitTraining
+url:           http://neonscience.github.io/NEONgitTraining
+baseurl:       http://neonscience.github.io/NEONgitTraining
 
 #use this when working locally
 #url: http://localhost:4000
@@ -15,14 +15,14 @@ baseurl:       http://neoninc.github.io/NEONgitTraining
 
 # Owner/author information
 owner: 		
-  name: NEON Training
+  name: NEON
   avatar: profilePic_circle.png
   bio: "We are devoted to open data, open source and facilitating the use of Big Data in science and education."
   email: 
-  twitter: 
-  github: "neondps"
+  twitter: "NEONSci"
+  github: "NEONScience"
   youtube: 
-# instagram:    "mmistakes"
+
 # For Google Authorship https://plus.google.com/authorship
 # google_plus:    "MichaelRoseDesign"
 
@@ -44,7 +44,7 @@ links:
     url: /about/
     
   - title: NEON Website
-    url: http://neoninc.org
+    url: http://neonscience.org
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
