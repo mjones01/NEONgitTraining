@@ -5,5 +5,5 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: texture-feature-07.jpg
   credit: NEON
-  creditlink: http://neoninc.org
+  creditlink: http://neonscience.org
 ---
